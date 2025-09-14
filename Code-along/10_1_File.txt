@@ -1,0 +1,7 @@
+Hello World! 
+This is our new text file 
+and this is another line. 
+Why? Because we can. 
+This is the new line added that i forgot to add. 
+This is another line added that i also forgot. 
+adding some more text 
